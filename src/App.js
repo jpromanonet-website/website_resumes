@@ -95,7 +95,7 @@ function App() {
 
               {/* Counter */}
               <Typography variant="subtitle1" color="primary">
-                {filteredProjects.length} {selectedCategory === "All" ? "Total ventures" : "Ventures in " + selectedCategory}
+                {filteredProjects.length} {selectedCategory === "All" ? "Total resumes" : "Resumes in " + selectedCategory}
               </Typography>
             </div>
           </Typography>
