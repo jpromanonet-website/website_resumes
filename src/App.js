@@ -7,7 +7,7 @@ import Button from "@material-ui/core/Button";
 import Card from "@material-ui/core/Card";
 import CardActions from "@material-ui/core/CardActions";
 import { CardHeader, CardMedia } from "@material-ui/core";
-import projectsData from "./ventures.json";
+import projectsData from "./resumes.json";
 import { useStyles, theme } from "./styles";
 import Brightness7Icon from "@material-ui/icons/Brightness7";
 import Brightness4Icon from "@material-ui/icons/Brightness4";
@@ -54,7 +54,7 @@ function App() {
         <CssBaseline />
         <div className={classes.wrapper}>
           <Typography variant="h4" className={classes.bigSpace} color="primary">
-            My Resumen
+            My Resume
             <br />
             <br />
           </Typography>
@@ -63,7 +63,7 @@ function App() {
             className={classes.littleSpace}
             color="primary"
           >
-            Resumes in different languages (click <a href="https://jpromano.net/about">here</a> to return home)
+            My resume in different languages (click <a href="https://jpromano.net/about">here</a> to return home)
           </Typography>
           <Typography
             variant="h5"
