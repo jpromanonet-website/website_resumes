@@ -63,7 +63,7 @@ function App() {
             className={classes.littleSpace}
             color="primary"
           >
-            My resume in different languages (click <a href="https://jpromano.net/about">here</a> to return home)
+            My resume in different languages (click <a href="https://jpromanonet.vercel.app">here</a> to return home)
           </Typography>
           <Typography
             variant="h5"
