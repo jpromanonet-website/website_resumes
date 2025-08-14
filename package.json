@@ -1,5 +1,6 @@
 {
   "name": "website_resumes",
+  "homepage": "https://jpromano.net/resumes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
